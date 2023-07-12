@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 11, 2023 at 11:24 AM
+-- Generation Time: Jul 12, 2023 at 10:47 AM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -87,9 +87,9 @@ CREATE TABLE `orang` (
 --
 
 INSERT INTO `orang` (`id`, `nama`, `neptu_hari_id`, `neptu_pasaran`) VALUES
-(1, 'Joko Widodo', 6, 8),
-(2, 'Megawati', 5, 8),
-(3, 'Haritano', 7, 9);
+(6, 'Joko Widodo', 8, 5),
+(7, 'Megawati', 8, 5),
+(9, 'Puan Maharani', 6, 9);
 
 --
 -- Indexes for dumped tables
@@ -135,7 +135,7 @@ ALTER TABLE `neptu_pasaran`
 -- AUTO_INCREMENT for table `orang`
 --
 ALTER TABLE `orang`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
 
 --
 -- Constraints for dumped tables
