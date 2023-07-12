@@ -5,4 +5,20 @@ Weton_Dating_Calculator adalah sebuah web apps yang dapat membantu Anda menemuka
 
 -   **Beranda:**
 
-    ![](https://i.postimg.cc/hhhZz2tx/Beranda.png)
+    ![](https://i.postimg.cc/ryNBHb6h/Beranda.png)
+
+-   **Dashboard:**
+
+    ![](https://i.postimg.cc/90bsq4t3/Dashboard.png)
+
+-   **Tambah Orang:**
+
+    ![](https://i.postimg.cc/76gFwt5Z/Tambah-Orang.png)
+
+-   **Edit Orang:**
+
+    ![](https://i.postimg.cc/G2w00nhf/Edit-Orang.png)
+
+-   **Hitung Weton:**
+
+    ![](https://i.postimg.cc/hvcHj8mb/Hitung-Weton.png)
