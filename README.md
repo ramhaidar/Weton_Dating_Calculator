@@ -5,7 +5,8 @@ Weton_Dating_Calculator adalah sebuah web apps yang dapat membantu Anda menemuka
 
 -   Install XAMPP dan Jalankan Apache dan MySQL.
 -   Atur konfigurasi basis data Anda di file db_config.php sesuai kebutuhan.
--   Impor `weton_jodoh.sql` ke MySQL melalui PHPMyAdmin.
+-   Buat database baru bernama "weton_jodoh" di MySQL melalui PHPMyAdmin.
+-   Lalu import `weton_jodoh.sql` ke database tersebut melalui PHPMyAdmin.
 -   Buka Command Prompt di Folder Projek Weton_Dating_Calculator
     -   Eksekusi perintah berikut untuk menjalankan Web Server PHP:
         ```
